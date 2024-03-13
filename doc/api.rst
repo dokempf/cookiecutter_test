@@ -6,8 +6,9 @@ User API
 This is an example function:
 
 .. automodule:: cookiecutter_test
-    :members: 
-.. autodomule:: cookiecutter_test.just_to_check_documentation.print_smile
+    :members:
+
+.. automodule:: cookiecutter_test.just_to_check_documentation
     :members:
 
 
